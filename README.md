@@ -18,7 +18,7 @@ Using side length of 300 and depth of 3 is a good first test:
 
 '''python3 Sierpinski_triangle_recursion.py 300 3'''
 
-![alt text](https://github.com/hansonc2/Sierpinski-Triangle-Recursion/Example (side length = 300, depth = 3).png)
+![alt text](https://github.com/hansonc2/Sierpinski-Triangle-Recursion/Example\ (side length = 300, depth = 3).png)
 
 
 
